@@ -460,7 +460,7 @@ option { -webkit-border-radius:25px;
 }
 
 
-#btn1:hover{
+#btn1:focus{
     background-color: #F35525;
     color: white;
     font-weight: bold;
