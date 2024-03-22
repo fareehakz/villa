@@ -459,7 +459,6 @@ option { -webkit-border-radius:25px;
     border-radius: 5px;
 }
 
-
 #btn1:focus{
     background-color: #F35525;
     color: white;
@@ -467,6 +466,7 @@ option { -webkit-border-radius:25px;
     padding: 10px;
     border-radius: 5px;
 }
+
 #table2{
     border-radius: 10px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15);
